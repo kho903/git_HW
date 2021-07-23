@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+
+.profile {
+    text-align: center;
+}
+
+
+.container {
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    width: 80%;
+}
+
+table {
+    width: 70%;
+    margin:auto;
+}
